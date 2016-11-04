@@ -1,10 +1,10 @@
 # EasyComic
-炒鸡简单的漫画APP
+炒鸡简单的漫画APP<br>
 
 
-网络交互：okhttp3
-图片加载：picasso
-线程通信：evnentBus
+网络交互：okhttp3<br>
+图片加载：picasso<br>
+线程通信：evnentBus<br>
 
 to do：缓存,下载
 
