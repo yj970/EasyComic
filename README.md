@@ -10,4 +10,4 @@ to do：缓存,下载
 
 
 
-![](https://github.com/yj970/EasyComic/raw/master/app/src/main/res/mipmap-xxhdpi/easyComic.png)  
+![](https://github.com/yj970/EasyComic/raw/master/app/src/main/res/mipmap-xxhdpi/easy_comic.png)  
